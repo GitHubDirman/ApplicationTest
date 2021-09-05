@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengetikkan Password, dan username tidak diisi</description>
+   <name>TC-Login_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c047d505-dc4c-42d4-b701-2689342f5c3e</testCaseGuid>
+</TestCaseEntity>

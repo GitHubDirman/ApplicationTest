@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Bugzilla</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://localhost:5001/'</initValue>
+      <name>url_bugzilla</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'manpelani1@gmail.com'</initValue>
+      <name>UserBugzilla</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Pel@niBugzill@'</initValue>
+      <name>PassBugzilla</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>40</initValue>
+      <name>TimeOut</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

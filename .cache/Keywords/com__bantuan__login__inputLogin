@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "AA8C9FBEC3D5CB5EE5CD833CFFACE88C",
+  "keywordClasses": [
+    {
+      "name": "com.bantuan.login.inputLogin",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

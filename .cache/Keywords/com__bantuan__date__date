@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "BC90C63E7F2EFB8284F099458D57E6A3",
+  "keywordClasses": [
+    {
+      "name": "com.bantuan.date.date",
+      "keywordMethods": [
+        {
+          "name": "getCurrentDateTime",
+          "parameters": [
+            {
+              "name": "timeZoneId",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "dateTimeFormat",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

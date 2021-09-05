@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Submit Bug tanpa Summary</description>
+   <name>TC-EnterBug_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89782cd5-ae01-432f-bf9a-38bf6cb584be</testCaseGuid>
+</TestCaseEntity>

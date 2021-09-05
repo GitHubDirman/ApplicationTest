@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "A741EA8E2AA3A8F084CF8126B8DF08B2",
+  "keywordClasses": [
+    {
+      "name": "com.bantuan.openurl.Open_Home_Page",
+      "keywordMethods": [
+        {
+          "name": "OpenHomePage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

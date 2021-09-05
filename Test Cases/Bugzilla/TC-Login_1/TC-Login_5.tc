@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengetikkan Username dan password (diisi)</description>
+   <name>TC-Login_5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3f92415-e2a1-4bcd-9411-e1455593a9ed</testCaseGuid>
+</TestCaseEntity>
